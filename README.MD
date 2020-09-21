@@ -2,7 +2,8 @@
 
 CS117 Project
 
-<ul>By:
+<ul>
+    By:
 <li>Hannier Gil</li>
 <li>Sheharyar Khan</li>
 </ul>
